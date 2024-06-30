@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+training_checkpoints
+lfw
+siamesemodelv2.h5
+data
